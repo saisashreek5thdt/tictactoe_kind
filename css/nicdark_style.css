@@ -10,6 +10,12 @@
 @import "animate.css";
 @import "magnific-popup.css";
 
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montez&display=swap');
+
 
 /****************************************************************************
 	Table of Content
@@ -119,7 +125,7 @@ p.red,h1.red,h2.red,h3.red,h4.red,h5.red,h6.red,a.red,i.red,span.red, input[type
 p.center,h1.center,h2.center,h3.center,h4.center,h5.center,h6.center{ text-align: center; }
 p.right,h1.right,h2.right,h3.right,h4.right,h5.right,h6.right, span.right{ float: right; }
 /*size*/
-p{ font-size:15px; line-height: 22px; color:#a4a4a4; font-family: 'Raleway', sans-serif; }
+p{ font-size:15px; line-height: 22px; color:#1E1E1E; font-family: 'Raleway', sans-serif; }
 h1{ font-size: 30px; line-height: 30px; }
 h1.extrasize{ font-size: 45px; line-height: 45px; }
 h2{ font-size: 25px; line-height: 25px; }
